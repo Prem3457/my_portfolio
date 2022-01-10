@@ -1,0 +1,94 @@
+
+body{
+    background-color:#edf5e1;
+}
+
+
+body{
+    font-size:1.2em;
+    color:black;
+}
+h2{
+    position: relative;
+}
+
+.navbar-brand{
+    color:white!important;
+    font-weight:bold;
+}
+.navbar-brand:hover{
+    color:white!important;
+}
+.navbar-toggler{
+    background-color:white!important;
+}
+#menu-items a{
+    color:white!important;
+}
+
+.btn-red:hover{
+    background-color:#05386b;
+    color:#f6f6f6;
+    border:2px solid #05386b;
+    border-radius:0;
+}
+.btn-red{
+    border:2px solid #05386b;
+    color:#f6f6f6;
+    background-color:transparent;
+    border-radius: 0;
+}
+#home{
+    background-color: #05386b;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height:100vh;
+    position: relative;
+    color:white;
+}
+.home-content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#about a{
+    color:#05386b;
+}
+
+.side-headings{
+    color:#05386b;
+}
+
+.certificates-heading{
+    flex-direction: row-reverse;
+}
+.cocurricular a{
+    color:#05386b;
+}
+.resume a{
+    color:#333333 !important;
+}
+.resume a:hover{
+    color:white!important;
+}
+
+.heading{
+    color: #0c0032;
+}
+
+#contact{
+    background-color:#05386b ;
+    color:white;
+}
+.social i{
+    color:white;
+}
+
+footer{
+    background-color:#05386b;
+    color:white;
+}
